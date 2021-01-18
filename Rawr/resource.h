@@ -13,6 +13,8 @@
 #define IDC_RAWR                        109
 #define IDR_MAINFRAME                   128
 #define IDR_HTML1                       129
+#define IDD_SERVSTATBOX					131
+#define IDM_SERVSTAT					132
 #define IDC_STATIC                      -1
 
 // Next default values for new objects
